@@ -1,7 +1,7 @@
 # cwn
 Coloured / White Narrative
 
-http://cw.adriangiacomelli.com
+http://cwn.adriangiacomelli.com
 
 At some point of Trump's march against Democracy the phrase "White narrative" popped up.
 What would be the contrary? A coloured narrative? Maybe.
